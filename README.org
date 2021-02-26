@@ -1,0 +1,16 @@
+# ob-yas
+* Snippets
+  :PROPERTIES:
+  :header-args:  :mode rjsx-mode
+  :END:
+
+
+#+NAME: some snippet
+#+HEADER: :binding "C-c n p"
+#+HEADER: :key test
+#+HEADER: :name Testing my snippet
+#+begin_src yas
+
+This is a test
+
+#+end_src
