@@ -1,4 +1,8 @@
 # ob-yas
+
+* Store your snippets in an org file
+  
+
 * Snippets
   :PROPERTIES:
   :header-args:  :mode rjsx-mode
